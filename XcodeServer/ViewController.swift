@@ -14,10 +14,16 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         let _ = returnString()
+        let _ = returnInt()
+
         // Do any additional setup after loading the view, typically from a nib.
     }
 
     func returnString() -> String{
+        return nil
+    }
+    
+    func returnInt() -> Int{
         return nil
     }
     
