@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     }
 
     func returnString() -> String{
-        return ""
+        return nil
     }
     
     override func didReceiveMemoryWarning() {
