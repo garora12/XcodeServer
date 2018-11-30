@@ -13,20 +13,20 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let returnString1 = returnString()
-        let returnInt1 = returnInt()
+//        let returnString1 = returnString()
+//        let returnInt1 = returnInt()
 
 
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-    func returnString() -> String{
-        return ""
-    }
-    
-    func returnInt() -> Int{
-        return 1
-    }
+//    func returnString() -> String{
+//        return nil
+//    }
+//    
+//    func returnInt() -> Int{
+//        return 1
+//    }
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
