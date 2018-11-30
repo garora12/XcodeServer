@@ -13,12 +13,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        returnString()
+        let _ = returnString()
         // Do any additional setup after loading the view, typically from a nib.
     }
 
     func returnString() -> String{
-        return nil
+        return ""
     }
     
     override func didReceiveMemoryWarning() {
