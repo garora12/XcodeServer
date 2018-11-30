@@ -9,22 +9,23 @@
 import UIKit
 
 class ViewController: UIViewController {
-// commit test from arshdeep
+// commit check
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let _ = returnString()
-        let _ = returnInt()
+        let returnString1 = returnString()
+        let returnInt1 = returnInt()
+
 
         // Do any additional setup after loading the view, typically from a nib.
     }
 
     func returnString() -> String{
-        return nil
+        return ""
     }
     
     func returnInt() -> Int{
-        return nil
+        return 1
     }
     
     override func didReceiveMemoryWarning() {
