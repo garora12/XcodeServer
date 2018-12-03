@@ -20,10 +20,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-//    func returnString() -> String{
-//        return nil
-//    }
-//    
+    func returnString() -> String{
+        return nil
+    }
+//
 //    func returnInt() -> Int{
 //        return 1
 //    }
