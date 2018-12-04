@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     }
 
     func returnString() -> String{
-        return "2"
+        return nil
     }
 //
 //    func returnInt() -> Int{
